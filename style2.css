@@ -413,14 +413,12 @@ body{
     font-size: 16px;
     border: 1px solid #8c8c8c;
     outline: none;
-    border-radius: 2px;
     color: #000;
     padding-bottom: 10px 10px 0 0;
     min-width: 400px;
     height: 50px;
     align-items: center;
     padding: 5px;
-    border-radius: 4px;
     
 
 }
@@ -433,7 +431,6 @@ body{
     color: #fff;
     font-weight: 400;
     letter-spacing: 0.1px;
-    border-radius: 2px;
     background: #e50914;
     box-shadow: 0 1px 0 rgb(0, 0, 0, 0.45);
     font-size: 1.625rem;
